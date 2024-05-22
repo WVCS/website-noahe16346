@@ -1,3 +1,18 @@
-body {
-
-}
+nav{ 
+ list-style-type: none;
+  position: fixed;
+  background-color:#D8DCFF;
+  width:100vw;
+  padding:10px;
+  top:0;
+  left:0;
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  
+  a:hover {
+    background-color:white;
+  }
+  a{
+    text-decoration:none;
+    color:#565676;
+  }
